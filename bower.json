@@ -1,0 +1,10 @@
+{
+  "name": "cartodbjs",
+  "homepage": "https://github.com/CartoDB/cartodb.js",
+  "version": "3.11.05-dev",
+  "main": [
+    "dist/cartodb.css",
+    "dist/cartodb.ie.css",
+    "dist/cartodb.uncompressed.js"
+  ]
+}
